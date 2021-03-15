@@ -1,3 +1,17 @@
+```
+ _______ _     _ _______      _     _ _______ _______  ______  ______ _______                                     
+    |    |_____| |______      |     | |______ |______ |_____/ |  ____ |______                                     
+    |    |     | |______      |_____| ______| |______ |    \_ |_____| |______                                     
+                                                                                                                  
+ _______ _______  ______ _______ _______ ______  . _______      _______ ______  _____ _______ _____  _____  __   _
+ |  |  | |______ |_____/ |       |_____| |     \ ' |______      |______ |     \   |      |      |   |     | | \  |
+ |  |  | |______ |    \_ |_____  |     | |_____/   ______|      |______ |_____/ __|__    |    __|__ |_____| |  \_|
+
+```
+* **NOTE:** This is a Custom and unofficial Version of UserGe Check the Original Version [**HERE**](https://github.com/userge/userge)
+* Change Custom `.help` Header in __Userge/userge/plugins/help.py__ line `50` 
+
+
 <p align="center">
     <a href="https://github.com/UsergeTeam/Userge">
         <img src="resources/userge.png" alt="Userge">
@@ -39,8 +53,6 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/UsergeTeam/Userge)
 
 > **Userge** is a Powerful , _Pluggable_ Telegram UserBot written in _Python_ using [Pyrogram](https://github.com/pyrogram/pyrogram).
-> **NOTE:** This is a Custom and unofficial Version of UserGe Check the Original Version [**HERE**](https://github.com/userge/userge)
-> Change Custom `.help` Header in __Userge/userge/plugins/help.py__ line `50` :)
 ## Documentation 📘
 
 > you can find full documentation [**here**](https://theuserge.github.io)
