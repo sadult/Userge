@@ -39,7 +39,8 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/UsergeTeam/Userge)
 
 > **Userge** is a Powerful , _Pluggable_ Telegram UserBot written in _Python_ using [Pyrogram](https://github.com/pyrogram/pyrogram).
-
+> **NOTE:** This is a Custom and unofficial Version of UserGe Check the Original Version [**HERE**](https://github.com/userge/userge)
+> Change Custom `.help` Header in __Userge/userge/plugins/help.py__ line `50` :)
 ## Documentation 📘
 
 > you can find full documentation [**here**](https://theuserge.github.io)
