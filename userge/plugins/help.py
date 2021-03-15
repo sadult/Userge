@@ -45,7 +45,7 @@ async def _init() -> None:
 async def helpme(message: Message) -> None:  # pylint: disable=missing-function-docstring
     plugins = userge.manager.enabled_plugins
     if not message.input_str:
-        out_str = f"""⚒ <b><u>(<code>{len(plugins)}</code>) Plugin(s) Available</u></b>\n\n"""
+        out_str = f"""Userge \n <code> _____                   _ \n|     |___ ___ ___ ___ _| |\n| | | | -_|  _|  _| .'| . |\n|_|_|_|___|_| |___|__,|___|</code>\n\n Edition \n <a href="https://t.me/l27_0_0_l" > Me </a> | <a href="https://github.com/sadult/userge" > Github </a> | <a href="https://mercads.ir" > Site </a> \n\n ⚒ <b><u>(<code>{len(plugins)}</code>) Plugin(s) Available</u></b>\n\n"""
         cat_plugins = userge.manager.get_plugins()
         for cat in sorted(cat_plugins):
             if cat == "plugins":
